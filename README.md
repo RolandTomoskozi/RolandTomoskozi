@@ -12,6 +12,7 @@ I have a knack for photo shooting too and share gladly my pics on Instagram. I a
 I look forward to absorb knowledge🧠, gain experience👨‍🏭, collaborate🤝 and build amazing softwares for the world🌍!
 
 💬 Want to know more about me?<br>
-I’m already working on my Portfolio Website but untill then you can check my LinkedIn & Instagram.
+I’m already working on my Portfolio Website but untill then you can check my <a href="https://www.linkedin.com/in/rolandtomoskozi">LinkedIn</a> & 
+<a href="https://www.instagram.com/rolandtomoskozi/">Instagram</a>.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandTomoskozi&layout=compact)](https://github.com/RolandTomoskozi/github-readme-stats)
