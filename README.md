@@ -19,7 +19,7 @@
 <p align="left">
 Hey there 👋
 
-I'm a 26 years old Full Stack Developer who lives in Austria.<br>
+I'm a 26 years old Junior Full Stack Developer who lives in Austria.<br>
 It's fun to code something that anyone on the web can easily see.<br>
 </p>
 
