@@ -3,6 +3,20 @@
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/45043415/118250646-f8ff8c00-b4a6-11eb-8e72-cb4eff63b8e9.png"/>
 
 <p align="left">
+  <a href="mailto:rolandtomoskozi@outlook.com">
+    <img src="https://img.shields.io/badge/-rolandtomoskozi@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rolandtomoskozi@gmail.com"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rolandtomoskozi">
+    <img src="https://img.shields.io/badge/-Roland%20Tömösközi-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rolandtomoskozi"/>
+  </a>
+  <a href="https://github.com/RolandTomoskozi/?tab=follow">
+    <img src="https://img.shields.io/github/followers/RolandTomoskozi?label=Follow&style=social"/>
+  </a>
+</p>
+
+<br>
+
+<p align="left">
 Hey there 👋
 
 I'm a 26 years old Full Stack Developer who lives in Austria. It's fun to code something that anyone on the web can easily see.<br>
