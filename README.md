@@ -19,21 +19,19 @@
 <p align="left">
 Hey there 👋
 
-I'm a 26 years old Full Stack Developer who lives in Austria. It's fun to code something that anyone on the web can easily see.<br>
-I also enjoy programming JavaScript because it challenge me more. I love it when I can finally solve a difficult problem.
+I'm a 26 years old Full Stack Developer who lives in Austria.<br>
+It's fun to code something that anyone on the web can easily see.<br>
 </p>
 
 <p align="left">
 🚀 Tech Stack:<br>
-Java, JEE, Spring, Spring Boot, Hibernate, SQL, <br>
-JSF, Angular, TypeScript, JavaScript, HTML, CSS... etc.
+Java, JEE, Spring, Spring Boot, Hibernate, SQL, JSF, Angular, TypeScript, JavaScript, HTML, CSS... etc.
 </p>
 
 <p align="left">
 🎨 My other interests:<br>
-I have a knack for photo shooting too and share gladly my pics on Instagram.<br>
-I also love fitness and hiking. I look forward to absorb knowledge🧠, gain experience👨‍🏭, collaborate🤝 and build amazing softwares for the world🌍!
-</p>
+I also love fitness, hiking and I have a knack for photo shooting too.
+</p> 
 
 <p align="left">
 💬 Want to know more about me?<br>
