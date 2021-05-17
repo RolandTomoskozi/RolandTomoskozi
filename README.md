@@ -46,5 +46,5 @@ I’m already working on my Portfolio Website but untill then you can check my <
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=RolandTomoskozi&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+  src="https://github-readme-stats.vercel.app/api?username=RolandTomoskozi&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
 />
