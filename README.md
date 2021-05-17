@@ -3,7 +3,7 @@
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/45043415/118250646-f8ff8c00-b4a6-11eb-8e72-cb4eff63b8e9.png"/>
 
 <p align="left">
-  <a href="mailto:rolandtomoskozi@outlook.com">
+  <a href="mailto:rolandtomoskozi@gmail.com">
     <img src="https://img.shields.io/badge/-rolandtomoskozi@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rolandtomoskozi@gmail.com"/>
   </a>
   <a href="https://www.linkedin.com/in/rolandtomoskozi">
